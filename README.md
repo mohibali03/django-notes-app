@@ -29,4 +29,4 @@ I wanted to understand how to:
    docker compose up --build
 3. Access the App
    ```bash
-   http://localhost/80
+   http://<ec2_public_ip>/
